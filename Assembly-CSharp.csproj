@@ -65,6 +65,8 @@
   <ItemGroup>
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Backend\TemplateEditorDetection.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\BallGame\EmitParticlesOnBallBounce.cs" />
+    <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\CheckAnswer.cs" />
+    <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\CheckpointPassed.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\EmitParticlesOnKartBounce.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\Jiggler.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\SimpleTrigger.cs" />
