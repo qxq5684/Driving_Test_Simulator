@@ -70,7 +70,7 @@ public class InGameMenuManager : MonoBehaviour
 
     public void TogglePauseMenu()
     {
-        SetPauseMenuActivation(!menuRoot.activeSelf);
+       SetPauseMenuActivation(!menuRoot.activeSelf);
     }
     void SetPauseMenuActivation(bool active)
     {
