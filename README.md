@@ -1,14 +1,44 @@
-# Driving_Test_Simulator
+# Driving Test Simulator
 
-This is an application that is based off the karting tutorial.
+Driving test simulator is an Unity based application, which is a morph of the NZTA Driving test and a application which shows and tells you how to drive your car.
 
-The plan for this is to incorperate elements of dodging incoming cars, missing various hazards on the road and answering questions that 
-will directly relate to your driving tests within New Zealand.
+This was created because when you are studying for the driving test(s), you're given a low resolution screenshot of a situation which some people find a struggle relating to what is happening with the real world with cause and affect.
 
-This will either move you to a different scene and perform a parking challenge, or will keep you driving and having to identify and react
-to hazards on the road and follow the signs.
+This will then render a 2d world animation of what is occuring, and your choice will show you what would of happened if you chose that scenario.
 
-Currently, the base elements of the game (Movement) has been configured, and the development team has ran into a issue where moving between
-scenes doesn't save progress - This is to be fixed in a future update. 
+This enables the test taker to see in real time their mistakes, and retrospectively learn instead of having a "Fail" and not understanding why their decision was the wrong one.
 
-Currently, the "CheckPoints" are visually shown, this will be changed to correctly be hidden and this is what triggers the question prompts in future.
+## Roadmap
+Our Roadmap/current sprinting targets is outlined on Trello located here https://trello.com/b/KHdriV0i/2020s254drivingtestsimulator
+
+
+## Installation
+
+Pull Deployment branch from Github
+In the 'Builds' Folder, run the application.
+
+```
+git request-pull https://github.com/qxq5684/Driving_Test_Simulator/tree/Deployment
+```
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Authors and acknowledgment
+
+**ScrumMaster** - Ben Williams
+
+**Product Owner** | Alisa Iabeta
+
+**Developers**
+
+**UI**  Jason Li
+
+**Platform**
+
+Jay Chen
+
+
