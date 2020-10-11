@@ -35,7 +35,9 @@ Please make sure to update tests as appropriate.
 
 **Developers**
 
-**UI**  Jason Li
+**UI**  
+
+Jason Li
 
 **Platform**
 
