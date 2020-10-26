@@ -29,12 +29,13 @@ Please make sure to update tests as appropriate.
 
 ## Authors and acknowledgment
 
-**ScrumMaster** - Ben Williams
+**ScrumMaster** |  Ben Williams
 
 **Product Owner** | Alisa Iabeta
 
 **Developers**
 
 Jason Li - UI
+
 Jay Chen - Platform
 
