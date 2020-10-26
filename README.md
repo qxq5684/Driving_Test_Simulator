@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# NZ-driving
- 
-=======
 # Driving Test Simulator
 
 Driving test simulator is an Unity based application, which is a morph of the NZTA Driving test and a application which shows and tells you how to drive your car.
@@ -39,13 +35,6 @@ Please make sure to update tests as appropriate.
 
 **Developers**
 
-**UI**  
+Jason Li - UI
+Jay Chen - Platform
 
-Jason Li
-
-**Platform**
-
-Jay Chen
-
-
->>>>>>> bcbf54d2a3fb1181cdca0f7a6c96422481fe8d18
