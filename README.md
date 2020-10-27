@@ -11,6 +11,9 @@ This enables the test taker to see in real time their mistakes, and retrospectiv
 ## Roadmap
 Our Roadmap/current sprinting targets is outlined on Trello located here https://trello.com/b/KHdriV0i/2020s254drivingtestsimulator
 
+## Current Issues
+Scenes are not currently hooked to questions - This means the question animation is not functioning.
+This is a key element that is missing that will be added in a future update.
 
 ## Installation
 
